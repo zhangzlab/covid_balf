@@ -1,5 +1,5 @@
 # covid_balf
-R script for the covid balf data analysis
+R script for the covid balf data analysis. (Liao M. et al, Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19, Nature Medicine, 2020. https://www.nature.com/articles/s41591-020-0901-9)
 
 ## seurat_integration.R
 Integration of all samples with seurat.
