@@ -19,3 +19,5 @@ code to generate NK&T related figures.
 code to generate cytokine related figures.
 ## tcr_fig.R
 code to generate TCR related figures.
+## meta.txt
+Meta data for samples.
