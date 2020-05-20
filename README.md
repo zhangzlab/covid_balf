@@ -26,4 +26,4 @@ Cell type annotations for total cells.
 ## myeloid.cell.annotation.meta.txt
 Cell type annotations for macrophages.
 ## NKT.cell.annotation.meta.txt
-Cell type annotations for total NK&T cells.
+Cell type annotations for NK&T cells.
