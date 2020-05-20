@@ -21,3 +21,9 @@ code to generate cytokine related figures.
 code to generate TCR related figures.
 ## meta.txt
 Meta data for samples.
+## all.cell.annotation.meta.txt
+Cell type annotations for total cells.
+## myeloid.cell.annotation.meta.txt
+Cell type annotations for macrophages.
+## NKT.cell.annotation.meta.txt
+Cell type annotations for total NK&T cells.
