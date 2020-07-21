@@ -27,3 +27,5 @@ Cell type annotations for total cells.
 Cell type annotations for macrophages.
 ## NKT.cell.annotation.meta.txt
 Cell type annotations for NK&T cells.
+## nCov.rds
+The rds file is available at http://cells.ucsc.edu/covid19-balf/nCoV.rds.
